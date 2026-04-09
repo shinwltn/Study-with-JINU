@@ -1,2 +1,1 @@
-# Study-with-JINU
-GSWM
+# practice yolov8
