@@ -1,1 +1,1 @@
-# practice yolov8
+# practice python
